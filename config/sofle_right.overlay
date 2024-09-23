@@ -1,4 +1,7 @@
 #include "sofle.dtsi"
+&default_transform {
+    col-offset = <6>;
+};
 
 &i2c0 {
     status = "okay";
