@@ -5,7 +5,7 @@
 if SHIELD_ERGOVISION_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "sofle_left"
+	default "ergovision_left"
 
 endif
 

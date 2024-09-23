@@ -1,2 +1,8 @@
 config SHIELD_SOFLE_NUMPAD
     def_bool $(shields_list_contains,sofle_numpad)
+    
+config SHIELD_ERGOVISION_LEFT
+	def_bool $(shields_list_contains,ergovision_left)
+
+config SHIELD_ERGOVISION_RIGHT
+	def_bool $(shields_list_contains,ergovision_right)
