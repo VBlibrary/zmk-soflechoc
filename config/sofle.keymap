@@ -14,7 +14,7 @@
 #define DEF 0;
 #define UPE 1;
 #define MSC 2;
-#define ZMK_MOUSE_DEFAULT_SCRL_VAL 5
+
 
 
 &msc { acceleration-exponent = <1>; };
